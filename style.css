@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    direction: rtl;
+    width: 100%;
+    background:#fbba9b;
+    font-size: medium;
+    color:#000000;
+    margin:0;
+}
+
+.txt {
+    direction: rtl;
+    margin: 1% 6% 6% 6%;
+    padding: 0% 3% 3% 5%;
+}
+
+h1 {
+	text-align:center;
+    color: #000000;
+    padding: 2% 2% 2% 2%;
+    display: block;
+    max-width: 1600px;
+    width: 22%;
+    margin: 18px auto;
+}
